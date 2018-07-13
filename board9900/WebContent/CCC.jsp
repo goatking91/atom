@@ -10,7 +10,7 @@
 	  *{font-size:20pt; font-weight:bold; }
 	</style>
 </head>
-<body>
+<body>  
    <!-- CCC.jsp -->
    <font color=blue> CCC.jsp문서 </font><p>
    <form action="DDD.jsp">
